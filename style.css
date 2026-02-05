@@ -23,7 +23,7 @@ body {
     align-items: center;
     text-align: center;
     color: white;
-    background: url('img/img1.jpg') center top / cover no-repeat;
+    background: url('img1.jpg') center top / cover no-repeat;
 }
 
 .hero::before {
@@ -248,3 +248,4 @@ footer {
     font-size: 0.85rem;
     letter-spacing: 0.5px;
 }
+
